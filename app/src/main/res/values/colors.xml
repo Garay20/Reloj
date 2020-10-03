@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0325FF</color>
+    <color name="colorPrimaryDark">#A8214F</color>
+    <color name="colorAccent">#1CCF23</color>
+    <color name="colorReloj">#FFEB3B</color>
+</resources>

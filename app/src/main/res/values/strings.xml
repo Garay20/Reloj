@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reloj</string>
+    <string name="reloj_analogico">Reloj Analogico</string>
+    <string name="reloj_digital">Reloj Digital</string>
+    <string name="reloj_texto">Reloj Texto</string>
+    <string name="mi_aplicacion">Mi aplicacion</string>
+    <string name="mi_aplicacion_garay">Mi aplicacion -- Garay</string>
+    <string name="creada_por_enrrique_garay">Creada por: Enrrique Garay</string>
+</resources>
